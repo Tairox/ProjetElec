@@ -44,11 +44,11 @@ void loop() {
       count++;
     }
     float rapport=(p_QFE+deltaP)/p_QNH;
-    Serial.println("testlog:");
+    Serial.println("testlog :");
     float ln=log(rapport);
     Serial.print(ln);
     float z=-(2*1006*t*ln)/(7*9.81);
-    Serial.println("Altitude :");
+    Serial.println("Altitude : ");
     Serial.print(z);
     Serial.println("mètres");
     delay(1000); // pour n'avoir qu'une sortie par seconde
