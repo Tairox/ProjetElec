@@ -1,4 +1,4 @@
-# ProjetElec
+# Projet Électronique : Capteur de pression atmosphérique
 
 ## Matériel nécessaire
 
