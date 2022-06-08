@@ -28,7 +28,7 @@ void loop() {
     Serial.println(t);
     float altitude_ref = 505; // notre altitude lors du premier démarrage en mètres
     long p_QFE_RAW = HP20x.ReadPressure();
-    float p_QFE= p_QFE_RAW / 100.0; //float important pour avoir précision à 2chiffres après virgule
+    float p_QFE= p_QFE_RAW / 100.0; //le type float est important pour avoir une précision à 2chiffres après la virgule
     Serial.println("QFE mesuré:");
     Serial.println(p_QFE);
     float p_QNH=1010; // récupéré sur la station météo d'Andrézieux-Bouthéon
