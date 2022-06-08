@@ -6,4 +6,6 @@ Grove HP206C, Arduino UNO, Dragion LoRa Shield 1.4, Gateway Dragion (modèle à 
 
 ## Où récupérer les données
 
-Sur https://mydevices.com/
+Température et pression QNH : https://fr.allmetsat.com/metar-taf/france.php?icao=LFMH
+
+Altitude de référence : https://www.geoportail.gouv.fr/
