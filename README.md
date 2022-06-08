@@ -13,7 +13,7 @@ Température et pression QNH : https://fr.allmetsat.com/metar-taf/france.php?ica
 
 Altitude de référence : https://www.geoportail.gouv.fr/
 
-### Résultats
+## Résultats
 
 Les résultats sont accessibles sur https://developers.mydevices.com/cayenne/features/.
 
