@@ -2,7 +2,10 @@
 
 ## Matériel nécessaire
 
-Grove HP206C, Arduino UNO, Dragion LoRa Shield 1.4, Gateway Dragion (modèle à l'appréciation de chacun)
+* Grove HP206C
+* Arduino UNO
+* Dragino LoRa Shield 1.4
+* Gateway Dragino (modèle à l'appréciation de chacun)
 
 ## Où récupérer les données
 
