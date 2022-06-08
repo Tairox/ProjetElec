@@ -16,7 +16,7 @@ Le dossier `ArduinoToCayenne` contient le fichier .ino permettant d'afficher l'a
 
 Température et pression QNH : https://fr.allmetsat.com/metar-taf/france.php?icao=LFMH
 
-Altitude de référence : https://www.geoportail.gouv.fr/
+L'Altitude de référence : https://www.geoportail.gouv.fr/
 
 ## Résultats
 
