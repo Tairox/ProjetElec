@@ -22,4 +22,4 @@ L'Altitude de référence : https://www.geoportail.gouv.fr/
 
 Les résultats sont accessibles sur https://developers.mydevices.com/cayenne/features/.
 
-Cayenne est une plateforme IoT de type glisser-déposer, développée par myDevices, qui permet aux utilisateurs de prototyper et de partager rapidement leurs solutions IoT connectées. Ici, on l'utilise de concert avec __TTN__.
+Cayenne est une plateforme IoT de type glisser-déposer, développée par myDevices, qui permet aux utilisateurs de prototyper et de partager rapidement leurs solutions IoT connectées. Ici, on l'utilise de concert avec l'outil __TTN__.
